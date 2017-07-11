@@ -24,7 +24,7 @@ github_username:  kylebits
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: architect
 gems:
 
 # Exclude from processing.
