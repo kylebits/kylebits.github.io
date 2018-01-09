@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yet Another Reboot"
-date:   2017-07-10 14:33:19 -0500
+date:   2018-01-08 14:33:19 -0500
 categories: blog
 ---
 I think this is probably the 7th or 8th version of my blog. I might actually be missing a couple, who
