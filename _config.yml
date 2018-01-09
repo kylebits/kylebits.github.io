@@ -14,16 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: KyleBits
-description: > # this means to ignore newlines until "baseurl:"
-  Bits and pieces of Kyle, all over your Interwebz.
+description: Bits and pieces of Kyle, all over your Interwebz.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kylebits.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kylebits
-github_username:  kylebits
+github_username: kylebits
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
